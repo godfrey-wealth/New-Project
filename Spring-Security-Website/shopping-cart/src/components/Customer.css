@@ -1,0 +1,120 @@
+/* Customer.css */
+
+/* .customer-page {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  header h1 {
+    margin: 0;
+    padding-left: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li:last-child {
+    margin-right: 0;
+  }
+  
+  nav ul li a,
+  nav ul li button {
+    color: #fff;
+    text-decoration: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  nav ul li a:hover,
+  nav ul li button:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    margin-top: 20px;
+  }
+  
+  .export-link-container {
+    margin-bottom: 20px;
+  }
+  
+  .export-btn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
+  td a, td button {
+    margin-right: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #007bff;
+  }
+  
+  td a:hover, td button:hover {
+    text-decoration: underline;
+  }
+   */
+
+
+   .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .customer-options {
+    margin-top: 20px;
+  }
+  
+  .btn {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
